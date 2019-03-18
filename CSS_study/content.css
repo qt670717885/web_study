@@ -1,0 +1,104 @@
+
+.box1{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    text-align: center;
+}   
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+}
+.boy2{
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+    margin: 0 auto;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    
+}
+.boy3{
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+    display: table;
+    margin: 0 auto;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    text-align: center;
+}
+.boy4{
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+    display: inline-block;
+}
+/* 垂直居中 */
+.box5{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    line-height: 200px;
+}
+.box6{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    display: table-cell;
+    vertical-align: middle;
+}
+.boy6{
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+}
+
+.box7{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    display: flex;
+    align-items: center;
+}
+.boy7{
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+}
+.box8{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    display: flex;
+    justify-content:center;
+}
+.boy8{
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+}
+.box9{
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    position: relative;
+    
+}
+.boy9{
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+    margin: auto; 
+    position: absolute;
+    left: 0; top: 0; right: 0; bottom: 0;   
+}
